@@ -1,3 +1,3 @@
 # weather-app
-What's implemented
+## What's implemented
 * Sea design
