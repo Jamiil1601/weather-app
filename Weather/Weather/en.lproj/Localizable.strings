@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Muhammad Jamiil Angnoo on 27/01/2023.
+  
+*/
+
+"LOADING" = "Loading...";
+"RAINY" = "Rainy";
+"CLOUDY" = "Cloudy";
+"SUNNY" = "Sunny";
+"CURRENT" = "current";
+"MIN" = "min";
+"MAX" = "max";
+"OK" = "OK";
+"SEARCH_TITLE" = "Search for places";
+"NO_DATA_FOUND" = "No data found";
+"PERMISSION_DENIED_TITLE" = "Location permission denied";
+"LOCATION_PERMISSION_DENIED" = "Please go to settings and activate location for the Weather App";
+"WEATHER_FAVORITES" = "Favorites";
+"VIEW_ON_MAP" = "View on map!";
