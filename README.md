@@ -26,3 +26,4 @@ One essential aspect that I have omitted is Unit Testing. The reason behind is d
 
 Regarding the Forecast5 - https://openweathermap.org/forecast5 api, it returns forecasts on a 3 hour basis. I would prefer using forecast16 - https://openweathermap.org/forecast16 in a future project as it provides daily forecast instead of 3 hour basis forecasts for 6 days.
 
+API Keys normally should be kept locally, but in this case I committed my plist containing my API keys to ease the task of the reviewers by allowing them to build the app without having to create their own API keys.
