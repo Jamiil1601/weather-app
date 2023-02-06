@@ -11,6 +11,16 @@
 * View favorited locations on map
 * Some extra info about specific location (city name)
 
+## Screenshots
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-06 at 09 34 41](https://user-images.githubusercontent.com/23328986/216909063-a9351086-88e2-46bb-89a5-47c7f931a17c.png)
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-06 at 09 35 11](https://user-images.githubusercontent.com/23328986/216909107-7053bcee-c903-40f8-8bcc-6c4a647f906f.png)
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-06 at 09 36 27](https://user-images.githubusercontent.com/23328986/216909335-0e576262-076d-4eed-a828-824aa924fd40.png)
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-06 at 09 36 54](https://user-images.githubusercontent.com/23328986/216909363-4b37b26a-9d17-44aa-8d1b-b09230fad550.png)
+
 ## Future improvements
 * Unit Testing (TDD)
 * CI / CD build pipeline with Fastlane (CD is not yet implemented)
